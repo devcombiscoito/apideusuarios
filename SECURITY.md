@@ -4,8 +4,8 @@ Nothing will happen here, besides there already being nothing.
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+For now, I'm not releasing security updates, but when I start,
+these versions will be compatible.
 
 | Version | Supported          |
 | ------- | ------------------ |
